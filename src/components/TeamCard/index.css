@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.extended {
+  padding: 50px 30px 20px 30px;
+}
+.banner-main {
+  width: 100%;
+  text-align: center;
+}
+.latest-match-head {
+  font-size: 30px;
+  color: white;
+}
+.main-competing-container {
+  color: white;
+  padding: 50px 20px 20px 20px;
+  border-radius: 20px;
+  background-color: #0f172a;
+}
+.competing-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: white 2px solid;
+}
+.logo-image-team {
+  width: 150px;
+  height: 150px;
+}
+.teams-ul-main-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
